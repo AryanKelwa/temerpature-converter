@@ -19,8 +19,8 @@
 #calcTemp {
     padding: 29px 67px;
     min-height: 290px;
-    background-color: #6a88ed;
-    box-shadow: #4f66af 2px 2px 2px, #a1b5f9 4px 4px 5px;
+    background-color: #a1b5f9;
+    box-shadow: #4f66af 1px 1px 2px, #4f66af 5px 5px 5px;
     border-radius: 5px;
 }
 
